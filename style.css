@@ -15,7 +15,7 @@ p.lead{
 }
 
 header{
-	background: transparent url(images/bg-header.png) no-repeat center bottom;
+	background: transparent url(img/header.png) no-repeat center bottom;
 	background-size:100% auto;
 }
 
@@ -29,7 +29,7 @@ img#gecko{
 }
 
 #habitat{
-	background: url(images/bg-habitat.png) no-repeat center bottom, linear-gradient(#b4b58d, #ece0c7);
+	background: url(img/habitat.png) no-repeat center bottom, linear-gradient(#b4b58d, #ece0c7);
 	padding-bottom:250px;
 }
 
@@ -42,7 +42,7 @@ img#gecko{
 }
 
 footer{
-	background: black url(images/bg-footer.png) no-repeat center top;
+	background: black url(img/footer.png) no-repeat center top;
 	background-size:100% auto;
 	padding-top:30vw;
 }
