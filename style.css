@@ -31,6 +31,7 @@ img#gecko{
 #habitat{
 	background: url(img/habitat.png) no-repeat center bottom, linear-gradient(#b4b58d, #ece0c7);
 	padding-bottom:200px;
+	width: auto;
 }
 
 #ciclo, #alimentacion, #familia{
