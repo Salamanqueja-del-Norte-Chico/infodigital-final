@@ -31,7 +31,7 @@ img#gecko{
 #habitat{
 	background: url(img/habitat.png) no-repeat center bottom, linear-gradient(#b4b58d, #ece0c7);
 	padding-bottom:250px;
-	background-size:80% auto;
+	background-size:70% auto;
 
 }
 
@@ -42,7 +42,7 @@ img#gecko{
 }
 
 #familia{
-	background-size:80% auto;
+	background-size:70% auto;
 }
 
 #amenazas{
